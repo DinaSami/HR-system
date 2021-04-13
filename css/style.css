@@ -1,0 +1,78 @@
+body{
+    background: url(../images/bk.jpg) no-repeat;
+    background-size: cover;
+}
+#headerP{
+    text-align: center;
+    color: #fff;
+    font-family: 'Indie Flower', cursive;
+    background-color: #00000071;
+    padding: 25px;
+    font-size: 30px;
+}
+#myForm  fieldset  legend{
+    margin-left: 58px;
+    font-size: 20px;
+}
+.divForm{
+    background-color: #00000071;
+    padding: 25px;
+    color: #fff;
+    float: left;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+#divTable{
+    float: right;
+    background-color: #00000071;
+    padding: 25px;
+    margin-top: 150px;
+    margin-right: 250px;
+}
+table{
+    width: 100%;
+}
+th,td{
+    border: 1px #fff solid;
+    padding: 5px 15px;
+    color: #fff;
+}
+#divTable  p{
+    border: 1px #fff solid;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 30px;
+    width: 149px;
+    border-right-width: 1px;
+    padding-left: 13px;
+    height: 18px;
+    padding-right: 0px;
+    color: #fff;
+    width: 95px;
+}
+footer{
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 550px;
+    font-size: 20px;
+    background-color: #0000003a;
+}
+select{
+    width: 80%;
+    margin-bottom: 30px;
+}
+input{
+    width: 80%;
+
+}
+#myForm  fieldset  input[type=submit]{
+   width: 100px;
+   display: inline-block;
+   text-align: center;
+
+}
